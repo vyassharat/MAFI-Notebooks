@@ -1,0 +1,323 @@
+/opt/anaconda3/bin/python /Users/sharatvyas/Desktop/QuantModel/MAFI-Notebooks/Math-6204-Assigments/HW1/main.py
+
+Option Params
+***********************************
+Option Type: Call
+S:100
+K:100
+Initial Time:0
+Terminal Time: 1
+Div Yield: 0.025
+Risk Free Rate: 0.05
+Vol:0.1
+***********************************
+Price -> $5.164625477020046
+Approximated Price -> $5.164621278939229
+Difference -> $4.198080816308902e-06
+***********************************
+
+Option Params
+***********************************
+Option Type: Put
+S:100
+K:100
+Initial Time:0
+Terminal Time: 1
+Div Yield: 0.025
+Risk Free Rate: 0.05
+Vol:0.1
+***********************************
+Price -> $2.7565767242581884
+Approximated Price -> $2.756572526177372
+Difference -> $4.198080816308902e-06
+***********************************
+
+Option Params
+***********************************
+Option Type: Call
+S:100
+K:100
+Initial Time:0
+Terminal Time: 1
+Div Yield: 0.025
+Risk Free Rate: 0.05
+Vol:0.2
+***********************************
+Price -> $8.93667801992408
+Approximated Price -> $8.936669715884811
+Difference -> $8.304039269546593e-06
+***********************************
+
+Option Params
+***********************************
+Option Type: Put
+S:100
+K:100
+Initial Time:0
+Terminal Time: 1
+Div Yield: 0.025
+Risk Free Rate: 0.05
+Vol:0.2
+***********************************
+Price -> $6.5286292671622235
+Approximated Price -> $6.528620963122954
+Difference -> $8.304039269546593e-06
+***********************************
+
+Option Params
+***********************************
+Option Type: Call
+S:100
+K:100
+Initial Time:0
+Terminal Time: 1
+Div Yield: 0.025
+Risk Free Rate: 0.05
+Vol:0.3
+***********************************
+Price -> $12.729164150139141
+Approximated Price -> $12.72916667710767
+Difference -> $2.5269685295370437e-06
+***********************************
+
+Option Params
+***********************************
+Option Type: Put
+S:100
+K:100
+Initial Time:0
+Terminal Time: 1
+Div Yield: 0.025
+Risk Free Rate: 0.05
+Vol:0.3
+***********************************
+Price -> $10.321115397377291
+Approximated Price -> $10.321117924345813
+Difference -> $2.5269685224316163e-06
+***********************************
+
+Option Params
+***********************************
+Option Type: Call
+S:100
+K:100
+Initial Time:0
+Terminal Time: 1
+Div Yield: 0.025
+Risk Free Rate: 0.05
+Vol:0.4
+***********************************
+Price -> $16.503135780324676
+Approximated Price -> $16.503133211173648
+Difference -> $2.569151028808392e-06
+***********************************
+
+Option Params
+***********************************
+Option Type: Put
+S:100
+K:100
+Initial Time:0
+Terminal Time: 1
+Div Yield: 0.025
+Risk Free Rate: 0.05
+Vol:0.4
+***********************************
+Price -> $14.095087027562819
+Approximated Price -> $14.09508445841179
+Difference -> $2.569151028808392e-06
+***********************************
+
+Option Params
+***********************************
+Option Type: Call
+S:100
+K:100
+Initial Time:0
+Terminal Time: 1
+Div Yield: 0.025
+Risk Free Rate: 0.05
+Vol:0.5
+***********************************
+Price -> $20.2434590361904
+Approximated Price -> $20.243450716492298
+Difference -> $8.319698103775863e-06
+***********************************
+
+Option Params
+***********************************
+Option Type: Put
+S:100
+K:100
+Initial Time:0
+Terminal Time: 1
+Div Yield: 0.025
+Risk Free Rate: 0.05
+Vol:0.5
+***********************************
+Price -> $17.835410283428544
+Approximated Price -> $17.83540196373044
+Difference -> $8.319698103775863e-06
+***********************************
+
+Option Params
+***********************************
+Option Type: Call
+S:100
+K:100
+Initial Time:0
+Terminal Time: 1
+Div Yield: 0.025
+Risk Free Rate: 0.05
+Vol:0.6
+***********************************
+Price -> $23.93925400974483
+Approximated Price -> $23.939242732575096
+Difference -> $1.1277169733148185e-05
+***********************************
+
+Option Params
+***********************************
+Option Type: Put
+S:100
+K:100
+Initial Time:0
+Terminal Time: 1
+Div Yield: 0.025
+Risk Free Rate: 0.05
+Vol:0.6
+***********************************
+Price -> $21.531205256982965
+Approximated Price -> $21.53119397981324
+Difference -> $1.1277169726042757e-05
+***********************************
+
+Option Params
+***********************************
+Option Type: Call
+S:100
+K:100
+Initial Time:0
+Terminal Time: 1
+Div Yield: 0.025
+Risk Free Rate: 0.05
+Vol:0.7
+***********************************
+Price -> $27.58112130630635
+Approximated Price -> $27.58111025360573
+Difference -> $1.105270062140562e-05
+***********************************
+
+Option Params
+***********************************
+Option Type: Put
+S:100
+K:100
+Initial Time:0
+Terminal Time: 1
+Div Yield: 0.025
+Risk Free Rate: 0.05
+Vol:0.7
+***********************************
+Price -> $25.173072553544493
+Approximated Price -> $25.173061500843872
+Difference -> $1.105270062140562e-05
+***********************************
+
+Option Params
+***********************************
+Option Type: Call
+S:100
+K:100
+Initial Time:0
+Terminal Time: 1
+Div Yield: 0.025
+Risk Free Rate: 0.05
+Vol:0.8
+***********************************
+Price -> $31.16048940943191
+Approximated Price -> $31.16048115576271
+Difference -> $8.253669200541935e-06
+***********************************
+
+Option Params
+***********************************
+Option Type: Put
+S:100
+K:100
+Initial Time:0
+Terminal Time: 1
+Div Yield: 0.025
+Risk Free Rate: 0.05
+Vol:0.8
+***********************************
+Price -> $28.752440656670053
+Approximated Price -> $28.75243240300086
+Difference -> $8.253669193436508e-06
+***********************************
+
+Option Params
+***********************************
+Option Type: Call
+S:100
+K:100
+Initial Time:0
+Terminal Time: 1
+Div Yield: 0.025
+Risk Free Rate: 0.05
+Vol:0.9
+***********************************
+Price -> $34.66943118204169
+Approximated Price -> $34.66942735660217
+Difference -> $3.825439520710461e-06
+***********************************
+
+Option Params
+***********************************
+Option Type: Put
+S:100
+K:100
+Initial Time:0
+Terminal Time: 1
+Div Yield: 0.025
+Risk Free Rate: 0.05
+Vol:0.9
+***********************************
+Price -> $32.261382429279834
+Approximated Price -> $32.261378603840306
+Difference -> $3.825439527815888e-06
+***********************************
+
+Option Params
+***********************************
+Option Type: Call
+S:100
+K:100
+Initial Time:0
+Terminal Time: 1
+Div Yield: 0.025
+Risk Free Rate: 0.05
+Vol:1.0
+***********************************
+Price -> $38.100617378688554
+Approximated Price -> $38.10061863158229
+Difference -> $1.2528937389788553e-06
+***********************************
+
+Option Params
+***********************************
+Option Type: Put
+S:100
+K:100
+Initial Time:0
+Terminal Time: 1
+Div Yield: 0.025
+Risk Free Rate: 0.05
+Vol:1.0
+***********************************
+Price -> $35.69256862592668
+Approximated Price -> $35.692569878820436
+Difference -> $1.25289375318971e-06
+***********************************
+
+Process finished with exit code 0
